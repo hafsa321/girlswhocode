@@ -1,0 +1,11 @@
+h1{
+  color:#ffffff;
+}
+div {
+  height: 400px;
+    background: linear-gradient(to bottom, #002aff 0%, #00ff99 100%);
+    padding-top: 250px
+}
+button{
+  align: right;
+}

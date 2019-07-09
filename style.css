@@ -1,0 +1,16 @@
+h1{
+  color:#ffffff;
+  font-size: 45px;
+}
+body {
+  background-image: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiQ0aHS1ajjAhWFLn0KHVQyALEQjRx6BAgBEAU&url=https%3A%2F%2Fwww.goinginstyle.com%2Fpages%2Fgoing-in-style-background-image&psig=AOvVaw1sthlSJc3iA3TCG7G42h-N&ust=1562790266029066");
+}
+div {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
+}
+h2{
+  font-size: 25px;
+}
+p{
+  font-size: 15px;
+}
